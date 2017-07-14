@@ -14,7 +14,7 @@ selectedTheme:String;
 toggleAppTheme(){
 if(this.selectedTheme == 'dark-theme'){
 
-this.settings.setActiveTheme('light-theme');
+this.settings.setActiveTheme('brown-theme');
 
 }else{
 
